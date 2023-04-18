@@ -1,0 +1,18 @@
+{
+    "name": "mohamed/sparkle",
+    "description": "vue inertia tailwindcss laravel admin panel",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Mohamed\\Sparkle\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mohamed Elghazali Mellaoui"
+        }
+    ],
+    "require-dev": {
+        "orchestra/testbench": "^8.0"
+    }
+}
